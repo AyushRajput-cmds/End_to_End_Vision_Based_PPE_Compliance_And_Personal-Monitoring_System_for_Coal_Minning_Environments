@@ -1,0 +1,2 @@
+# End_to_End_Vision_Based_PPE_Compliance_And_Personal-Monitoring_System_for_Coal_Minning_Environments
+End-to-end computer vision system for automated PPE compliance monitoring in coal mining environments. Uses a YOLOv8-based detection pipeline to identify personnel, helmets, and safety vests from CCTV-style video streams. Evaluated as a deployable proof-of-concept using public datasets and mine-representative footage.
